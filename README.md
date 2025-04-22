@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Zuck
-- 👀 I’m interested in Marketing, Data Science, Web-developing, Artificial Intelligence
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me zukhriddinsh@gmail.com, https://www.instagram.com/zukhriddin_dm/ 
-
-<!---
-ZuckHacker/ZuckHacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about Software Engineering, Data Analytics, Marketing and Sales.
+- 🌱 I’m currently learning Software Engineering and Ai at Centennial College.
+- 💞️ I’m looking to collaborate on everything.
+- 📫 You can reach me out through my email: zukhriddinsh@gmail.com
+- My social media pages:
+Instagram: https://www.instagram.com/zukhriddin_ds/
+LinkedIn: https://www.linkedin.com/in/zuhriddin-sharofiddinov-b04b80240/
